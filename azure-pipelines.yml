@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'Hosted VS2017'
+pool: 'Default'
 
 steps:
 - script: echo Hello, world!
